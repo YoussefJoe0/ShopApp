@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "25581498168",
+    "firebase_url": "https://shopapp-7dbdb.firebaseio.com",
+    "project_id": "shopapp-7dbdb",
+    "storage_bucket": "shopapp-7dbdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25581498168:android:280a1e0810f7196b855bcd",
+        "android_client_info": {
+          "package_name": "com.yousseftaha.shopapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25581498168-599or139mim6kdohi2fn97pj4h00e3hb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp4S4clMDCWP4YgDHnJ4uKdwx012_an1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25581498168-599or139mim6kdohi2fn97pj4h00e3hb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
